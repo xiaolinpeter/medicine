@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/jdbc.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/template/head.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/nav.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/resource/add.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/resource/update.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/role/add.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/unAuthorization.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/user/add.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/user/update.ftl=UTF-8
+encoding//src/main/webapp/index3.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

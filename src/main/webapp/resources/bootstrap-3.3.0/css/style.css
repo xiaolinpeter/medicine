@@ -1,0 +1,9 @@
+.sidebar .nav-second-level li a:hover{
+	background-color:#8e969a;
+}
+.sidebar .nav-third-level li a:hover{
+	background-color:#523030;
+}
+.sidebar .nav-third-level li a:active{
+    background-color:#17b19a;
+}

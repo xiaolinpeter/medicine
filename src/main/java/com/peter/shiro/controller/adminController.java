@@ -41,7 +41,7 @@ import com.peter.shiro.util.UUIDGenerator;
 public class adminController {
 
 	JSONObject data = new JSONObject();
-	String result = "";
+	String result = "dfsdsds";
 
 	@Autowired
 	private DataService dataService;
